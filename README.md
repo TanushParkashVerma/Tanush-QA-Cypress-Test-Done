@@ -9,7 +9,7 @@ npm install
 npx cypress run
 
 
-Click on the `my-spec.cy.js` file in the Cypress Test Runner to run the tests.
+Click on the cypress > e2e > `my-spec.cy.js` file in the Cypress Test Runner to run the tests.
 
 ## Test Cases Automated
 
