@@ -11,7 +11,7 @@ npx cypress run
 
 Click on the `my-spec.cy.js` file in the Cypress Test Runner to run the tests.
 
-## Test Cases
+## Test Cases Automated
 
 1. **Test if the application loads correctly**: Checks if the application loads correctly, including the title and table structure.
 
