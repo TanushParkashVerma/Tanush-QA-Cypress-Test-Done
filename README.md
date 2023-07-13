@@ -2,8 +2,8 @@
  Tanush-QA-Cypress-Test-Done 
 ## Running the Tests
 
-git clone <repository_url>
-cd <project_directory>
+git clone <https://github.com/TanushParkashVerma/Tanush-QA-Cypress-Test-Done>
+
 npm install
 npx cypress run
 
